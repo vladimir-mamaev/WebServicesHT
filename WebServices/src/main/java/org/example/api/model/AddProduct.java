@@ -16,7 +16,7 @@ public class AddProduct {
     @Data
     @NoArgsConstructor
     @AllArgsConstructor
-    private static class Product{
+    private class Product{
     private String code;
 }
 }
